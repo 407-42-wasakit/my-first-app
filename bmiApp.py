@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("# :lightblue[🏋️ แอปพลิเคชันคำนวณค่าดัชนีมวลกาย BMI]")
+st.markdown("# :blue[🏋️ แอปพลิเคชันคำนวณค่าดัชนีมวลกาย BMI]")
 st.write("กรอกข้อมูลน้ำหนักและส่วนสูงของคุณ เพื่อเช็กสุขภาพเบื้องต้น")
 
 weight = st.number_input("กรอกน้ำหนักของคุณ (กิโลกรัม):")
